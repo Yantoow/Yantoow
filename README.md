@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Yantoow
-- 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
 
 <!---
